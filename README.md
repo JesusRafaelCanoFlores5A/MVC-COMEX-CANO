@@ -6,4 +6,4 @@
 
 ### Base de datos en phpmyadmin
 
-![BASE DE DATOS]()
+![BASE DE DATOS](https://github.com/JesusRafaelCanoFlores5A/MVC-COMEX-CANO/blob/main/imagen_2023-11-08_121606737.png)
