@@ -10,3 +10,4 @@
 
 
 ### PANTALLA DE INICIO
+![BASE DE DATOS](https://github.com/JesusRafaelCanoFlores5A/MVC-COMEX-CANO/blob/main/imagen_2023-11-08_121953354.png)
